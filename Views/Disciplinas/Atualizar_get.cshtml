@@ -1,0 +1,28 @@
+@model Universidade.Models.DisciplinaModel
+@{
+    ViewData["Title"] = "Editar Disciplina";
+}
+
+<div class="text-center">
+    <br>
+    <h2>Editar Disciplina</h2>
+    <br>
+</div>
+
+<form>
+    <center>
+        <div class="col-sm-6">
+            <label asp-for="nome" class="control-label"><strong>Nome:</strong> </label>
+            <input asp-for="nome" class="form-control" readonly desabled />
+            <span asp-validation-for="nome" class="text_danger"></span>
+        </div><br />
+        <div class="col-sm-6">
+            <label asp-for="carga_horaria" class="control-label"><strong>Carga horaria:</strong> </label>
+            <input asp-for="carga_horaria" class="form-control" />
+            <span asp-validation-for="carga_horaria" class="text_danger"></span>
+        </div>
+        <br><br />
+        <button type="submit" class="btn btn-primary" asp-controller="Disciplinas" asp-action="Atualizar_post" asp-route-id="@Model.id">Registrar</button>
+        <a class="btn btn-primary" asp-controller="Home" asp-action="Index">Voltar</a>
+    </center>
+</form>

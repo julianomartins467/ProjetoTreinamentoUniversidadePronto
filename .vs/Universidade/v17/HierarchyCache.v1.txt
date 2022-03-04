@@ -1,0 +1,347 @@
+﻿++Solução 'Universidade' ‎(1 de 1 projeto)
+i:{00000000-0000-0000-0000-000000000000}:Universidade.sln
+++Universidade
+i:{00000000-0000-0000-0000-000000000000}:Universidade
+++Connected Services 
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:>1515
+++Dependências
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:>1514
+++Properties
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\properties\
+++wwwroot
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\
+++css
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\css\
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\css\
+++site.css
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\css\site.css
+++imagens
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\imagens\
+++faculdade2.jpg
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\imagens\faculdade2.jpg
+++fundo.jpg
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\imagens\fundo.jpg
+++rodape.png
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\imagens\rodape.png
+++rodape2.png
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\imagens\rodape2.png
+++js
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\js\
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\
+++favicon.ico
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\favicon.ico
+++Controllers
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\controllers\
+++AlunosController.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\controllers\alunoscontroller.cs
+++AprovacaoAluno.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\controllers\aprovacaoaluno.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\aprovacaoaluno.cs
+++AprovacaoCurso.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\controllers\aprovacaocurso.cs
+++AprovacaoDisciplina.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\controllers\aprovacaodisciplina.cs
+++CursosController.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\controllers\cursoscontroller.cs
+++DisciplinasController.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\controllers\disciplinascontroller.cs
+++HomeController.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\controllers\homecontroller.cs
+++NotasController.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\controllers\notascontroller.cs
+++RelatorioAluno.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\controllers\relatorioaluno.cs
+++Data
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\data\
+++DbSession.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\data\dbsession.cs
+++Models
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\
+++Aluno_disciplinaModel.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\aluno_disciplinamodel.cs
+++AlunocomCurso.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\alunocomcurso.cs
+++AlunoModel.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\alunomodel.cs
+++AprovacaoCursoModel.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\aprovacaocursomodel.cs
+++AprovacaoDisciplinaModel.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\aprovacaodisciplinamodel.cs
+++Curso_DisciplinaModel.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\curso_disciplinamodel.cs
+++CursocomDisciplinas.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\cursocomdisciplinas.cs
+++CursoDisciplinasAlunos.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\cursodisciplinasalunos.cs
+++CursoModel.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\cursomodel.cs
+++DisciplinaModel.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\disciplinamodel.cs
+++ErrorViewModel.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\errorviewmodel.cs
+++InserirNotas.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\inserirnotas.cs
+++LancarNota.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\lancarnota.cs
+++MatriculaModel.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\matriculamodel.cs
+++MatriculaRequest.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\matricularequest.cs
+++NotaRequest.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\notarequest.cs
+++PesquisaNotas.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\pesquisanotas.cs
+++SalvarNota.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\salvarnota.cs
+++VerificaAluno.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\models\verificaaluno.cs
+++Repositorio
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\repositorio\
+++AlunoComNotaRepositorio.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\repositorio\alunocomnotarepositorio.cs
+++AlunoRepositorio.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\repositorio\alunorepositorio.cs
+++AprovacaoAlunoRepositorio.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\repositorio\aprovacaoalunorepositorio.cs
+++AprovacaoCursoRepositorio.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\repositorio\aprovacaocursorepositorio.cs
+++AprovacaoDisciplinaRepositorio.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\repositorio\aprovacaodisciplinarepositorio.cs
+++CursoRepositorio.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\repositorio\cursorepositorio.cs
+++DisciplinaRepositorio.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\repositorio\disciplinarepositorio.cs
+++IAlunoRepositorio.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\repositorio\ialunorepositorio.cs
+++IAprovacaoAlunoRepositorio.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\repositorio\iaprovacaoalunorepositorio.cs
+++IAprovacaoCursoRepositorio.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\repositorio\iaprovacaocursorepositorio.cs
+++IAprovacaoDisciplinaRepositorio.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\repositorio\iaprovacaodisciplinarepositorio.cs
+++ICursoRepositorio.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\repositorio\icursorepositorio.cs
+++IDisciplinaRepositorio.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\repositorio\idisciplinarepositorio.cs
+++INotasRepositorio.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\repositorio\inotasrepositorio.cs
+++NotasRepositorio.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\repositorio\notasrepositorio.cs
+++Validacao
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\validacao\
+++Views
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\
+++AlunoNota
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\alunonota\
+++Index.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\alunonota\index.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\alunos\index.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\alunoscomnotas\index.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\aprovacaoaluno\index.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\aprovacaocurso\index.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\aprovacaodisciplina\index.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\cursos\index.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\disciplinas\index.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\home\index.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\notas\index.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\relatorioaluno\index.cshtml
+++Alunos
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\alunos\
+++_modalpesquisa.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\alunos\_modalpesquisa.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\cursos\_modalpesquisa.cshtml
+++Atualizar_get.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\alunos\atualizar_get.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\cursos\atualizar_get.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\disciplinas\atualizar_get.cshtml
+++Excluir.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\alunos\excluir.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\alunoscomnotas\excluir.cshtml
+++Inserir.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\alunos\inserir.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\alunoscomnotas\inserir.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\aprovacaoaluno\inserir.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\cursos\inserir.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\disciplinas\inserir.cshtml
+++AlunosComNotas
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\alunoscomnotas\
+++Editar.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\alunoscomnotas\editar.cshtml
+++AprovacaoAluno
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\aprovacaoaluno\
+++Delete.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\aprovacaoaluno\delete.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\aprovacaocurso\delete.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\cursos\delete.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\disciplinas\delete.cshtml
+++pesquisa.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\aprovacaoaluno\pesquisa.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\aprovacaocurso\pesquisa.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\aprovacaodisciplina\pesquisa.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\notas\pesquisa.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\relatorioaluno\pesquisa.cshtml
+++AprovacaoCurso
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\aprovacaocurso\
+++AprovacaoDisciplina
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\aprovacaodisciplina\
+++Cursos
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\cursos\
+++Disciplinas
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\disciplinas\
+++Home
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\home\
+++Notas
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\notas\
+++modal.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\notas\modal.cshtml
+++RelatorioAluno
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\relatorioaluno\
+++Shared
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\shared\
+++_Layout.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\views\_viewstart.cshtml
+++appsettings.json
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\appsettings.json
+++esquemaBD.drawio
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\esquemabd.drawio
+++Program.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\program.cs
+++Startup.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\startup.cs
+++Nenhuma dependência de serviço descoberta
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:>1516
+++Analisadores
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:analisadores
+++Estruturas
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:estruturas
+++Pacotes
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:pacotes
+++launchSettings.json
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\properties\launchsettings.json
+++site.js
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\js\site.js
+++bootstrap
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\
+++jquery
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\jquery\
+++jquery-validation
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\jquery-validation-unobtrusive\
+++ValidaCPF.cs
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\validacao\validacpf.cs
+++appsettings.Development.json
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\microsoft.netcore.app
+++Dapper (2.0.123)
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:>1534
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (5.0.0)
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:>1530
+++Microsoft.EntityFrameworkCore (5.0.14)
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:>1531
+++Microsoft.jQuery.Unobtrusive.Ajax (3.1.2)
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:>1533
+++MySql.Data (8.0.27)
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:>1535
+++Pomelo.EntityFrameworkCore.MySql (5.0.4)
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:>1536
+++Swashbuckle.AspNetCore (6.2.3)
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:>1532
+++dist
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\jquery\dist\
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\jquery\license.txt
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{c65a9718-456e-4f5c-974c-6a112a563a38}:c:\users\openk\desktop\projeto rodando\projetouniversidadec--main\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map

@@ -1211,3 +1211,4 @@ C:\Users\Openk\Desktop\Projeto Rodando\ProjetoUniversidadeC--main\obj\Debug\netc
 C:\Users\Openk\Desktop\Projeto Rodando\ProjetoUniversidadeC--main\obj\Debug\netcoreapp5.0\Universidade.pdb
 C:\Users\Openk\Desktop\Projeto Rodando\ProjetoUniversidadeC--main\obj\Debug\netcoreapp5.0\Universidade.genruntimeconfig.cache
 C:\Users\Openk\Desktop\Projeto Rodando\ProjetoUniversidadeC--main\obj\Debug\netcoreapp5.0\Razor\Views\Alunos\Aviso.cshtml.g.cs
+C:\Users\Openk\Desktop\Projeto Rodando\ProjetoUniversidadeC--main\obj\Debug\netcoreapp5.0\Razor\Views\Alunos\AvisoCadastrado.cshtml.g.cs

@@ -1,0 +1,58 @@
+﻿<h1>
+    ALUNO CADASTRADO COM SUCESSO !!!
+</h1>
+<br />
+
+<table class="table">
+  <thead>
+    <tr>
+      
+      <th scope="col">Nome</th>
+      <th scope="col">Idade</th>
+      <th scope="col">CPF</th>
+      <th scope="col">Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach(var item in Model)
+    {
+        <tr>
+          <td>@item.nome</td>    
+          @{
+            DateTime DataNascimento = item.Data_nascimento;
+            int Anos = 0;
+            if (DataNascimento < DateTime.Now)
+            {
+                Anos = new DateTime(DateTime.Now.Subtract(DataNascimento).Ticks).Year - 1;
+
+            }
+            DateTime AnosTranscorridos = DataNascimento.AddYears(Anos);
+            int Meses = 0;
+            for (int i = 1; i <= 12; i++)
+            {
+                if (AnosTranscorridos.AddMonths(i) == DateTime.Now)
+                {
+                    Meses = i;
+                    break;
+                }
+                else if (AnosTranscorridos.AddMonths(i) >= DateTime.Now)
+                {
+                    Meses = i - 1;
+                    break;
+                }
+            }
+            int Dias = DateTime.Now.Subtract(AnosTranscorridos.AddMonths(Meses)).Days;
+          }
+          <td> @Anos anos @Meses meses @Dias dias</td>
+          <td>@item.cpf</td>
+          <td>@item.email</td>
+          
+          
+        </tr>
+    }
+  </tbody>
+</table>
+<div>
+
+    <a class="btn btn-primary" asp-controller="Alunos" asp-action="Index">Ver Lista de Alunos</a>
+</div>

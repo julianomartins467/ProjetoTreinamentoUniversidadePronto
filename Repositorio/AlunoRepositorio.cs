@@ -80,6 +80,18 @@ namespace Universidade.Repositorio
             }
         }
 
+        public async Task<List<AlunoModel>> getUltimo(string cpf)
+        {
+            using (var conn = _db.Connection)
+            {
+
+                string query = @"SELECT * FROM aluno WHERE cpf = @cpf";
+                List<AlunoModel> l = (await conn.QueryAsync<AlunoModel>(sql: query, param: new { cpf })).ToList();
+
+                return l;
+            }
+        }
+
         public async Task<bool> ValidarCPF(string cpf) //validar cpf do aluno
         {
             using (var conn = _db.Connection)

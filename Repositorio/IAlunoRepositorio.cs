@@ -7,6 +7,7 @@ namespace Universidade.Repositorio
 {
     public interface IAlunoRepositorio
     {
+        Task<List<AlunoModel>> getUltimo(string cpf);
         Task<List<AlunoModel>> Index();
         Task<int> Criar(AlunoModel aluno);
         Task<AlunocomCurso> Atualizar_get(int id);

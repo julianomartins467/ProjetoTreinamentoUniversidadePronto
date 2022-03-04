@@ -45,19 +45,17 @@ namespace Universidade.Controllers
                 var result = await _alunorepositorio.Criar(aluno);
                 if (result > 0)
                 {
-                    y = await _alunorepositorio.Index();
-                    return View("Index", y);
+                    var o = await _alunorepositorio.getUltimo(aluno.cpf);
+                    return View("AvisoCadastrado", o);
                 }
                 else
                 {  
-                    return View("Index", y);
+                    return View("AvisoCadastrado", y);
                 }
             }
             else{
 
-               
                 return View("Aviso", y);
-               
             }
         }
 
